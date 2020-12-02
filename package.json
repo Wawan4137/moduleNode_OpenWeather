@@ -1,0 +1,19 @@
+{
+  "name": "exercice2",
+  "version": "1.0.0",
+  "description": "module nodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/Wawan4137/moduleNode_OpenWeather",
+  "author": "Wawan4137 <erwan.gaychanteloup@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "http-agent": "^0.1.2",
+    "http-proxy-agent": "^4.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "url": "^0.11.0"
+  },
+  "engines": {
+    " node ": " >=8.0.0 "
+    }    
+}
